@@ -1,0 +1,117 @@
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.deps.json
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.dll
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.pdb
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.AssemblyReference.cache
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.GeneratedMSBuildEditorConfig.editorconfig
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfoInputs.cache
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfo.cs
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.CoreCompileInputs.cache
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.dll
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.pdb
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.json
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.dev.json
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.genruntimeconfig.cache
+H:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.deps.json
+H:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.json
+H:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.dev.json
+H:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.dll
+H:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.pdb
+H:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csprojAssemblyReference.cache
+H:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfoInputs.cache
+H:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfo.cs
+H:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.CoreCompileInputs.cache
+H:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.dll
+H:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.pdb
+H:\gz\待处理\新建文件夹1\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.genruntimeconfig.cache
+F:\gz\练习\lx\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.deps.json
+F:\gz\练习\lx\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.json
+F:\gz\练习\lx\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.dev.json
+F:\gz\练习\lx\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.dll
+F:\gz\练习\lx\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.pdb
+F:\gz\练习\lx\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfoInputs.cache
+F:\gz\练习\lx\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfo.cs
+F:\gz\练习\lx\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.CoreCompileInputs.cache
+F:\gz\练习\lx\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.dll
+F:\gz\练习\lx\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.pdb
+F:\gz\练习\lx\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.genruntimeconfig.cache
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.deps.json
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.json
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.dev.json
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.dll
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.pdb
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.GeneratedMSBuildEditorConfig.editorconfig
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfoInputs.cache
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfo.cs
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.CoreCompileInputs.cache
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.dll
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.pdb
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.genruntimeconfig.cache
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.AssemblyReference.cache
+F:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.xml
+G:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.deps.json
+G:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.json
+G:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.dev.json
+G:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.dll
+G:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.pdb
+G:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.xml
+G:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfoInputs.cache
+G:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfo.cs
+G:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.CoreCompileInputs.cache
+G:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.dll
+G:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.pdb
+G:\gz\待处理\新建文件夹1\ZYSJ (2)\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.genruntimeconfig.cache
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.deps.json
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.json
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.dev.json
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.dll
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.pdb
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.xml
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfoInputs.cache
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfo.cs
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.CoreCompileInputs.cache
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.dll
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.pdb
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.genruntimeconfig.cache
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.deps.json
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.json
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.dev.json
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.dll
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.pdb
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.xml
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.GeneratedMSBuildEditorConfig.editorconfig
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfoInputs.cache
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfo.cs
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.CoreCompileInputs.cache
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.dll
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.pdb
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.genruntimeconfig.cache
+F:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.AssemblyReference.cache
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.deps.json
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.json
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.dev.json
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.dll
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.pdb
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.xml
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csprojAssemblyReference.cache
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfoInputs.cache
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfo.cs
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.CoreCompileInputs.cache
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.dll
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.pdb
+F:\gz\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.genruntimeconfig.cache
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.GeneratedMSBuildEditorConfig.editorconfig
+G:\gz\待处理\新建文件夹1\ZYSJ\ZYSJ\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.AssemblyReference.cache
+E:\gz\cxyapi\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.deps.json
+E:\gz\cxyapi\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.json
+E:\gz\cxyapi\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.runtimeconfig.dev.json
+E:\gz\cxyapi\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.dll
+E:\gz\cxyapi\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.pdb
+E:\gz\cxyapi\ZYSJModer\bin\Debug\netcoreapp3.1\ZYSJModer.xml
+E:\gz\cxyapi\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.AssemblyReference.cache
+E:\gz\cxyapi\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.GeneratedMSBuildEditorConfig.editorconfig
+E:\gz\cxyapi\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfoInputs.cache
+E:\gz\cxyapi\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.AssemblyInfo.cs
+E:\gz\cxyapi\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.csproj.CoreCompileInputs.cache
+E:\gz\cxyapi\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.dll
+E:\gz\cxyapi\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.pdb
+E:\gz\cxyapi\ZYSJModer\obj\Debug\netcoreapp3.1\ZYSJModer.genruntimeconfig.cache
