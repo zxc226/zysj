@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZYSJModer", "..\ZYSJModer\ZYSJModer.csproj", "{C21ED09C-18E9-438F-8C59-6158BCCDBFF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZYSJModer", "..\ZYSJModer\ZYSJModer.csproj", "{C21ED09C-18E9-438F-8C59-6158BCCDBFF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZYSJDal", "..\ZYSJDal\ZYSJDal.csproj", "{16BB2E01-576D-4A65-A19A-ED15202A0D16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZYSJDal", "..\ZYSJDal\ZYSJDal.csproj", "{16BB2E01-576D-4A65-A19A-ED15202A0D16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZYSJBal", "..\ZYSJBal\ZYSJBal.csproj", "{10C4E8A6-3EE9-4360-A246-FE10F48E1559}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZYSJBal", "..\ZYSJBal\ZYSJBal.csproj", "{10C4E8A6-3EE9-4360-A246-FE10F48E1559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebZYSJ_HT", "WebZYSJ_HT\WebZYSJ_HT.csproj", "{03459106-B3D2-4649-AEB9-48029E47ABB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{10C4E8A6-3EE9-4360-A246-FE10F48E1559}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10C4E8A6-3EE9-4360-A246-FE10F48E1559}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10C4E8A6-3EE9-4360-A246-FE10F48E1559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03459106-B3D2-4649-AEB9-48029E47ABB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03459106-B3D2-4649-AEB9-48029E47ABB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03459106-B3D2-4649-AEB9-48029E47ABB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03459106-B3D2-4649-AEB9-48029E47ABB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

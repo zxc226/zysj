@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\gz\\cxyapi\\ZYSJModer\\ZYSJModer.csproj": {}
+    "C:\\Users\\Administrator\\source\\repos\\zysj\\ZYSJModer\\ZYSJModer.csproj": {}
   },
   "projects": {
-    "E:\\gz\\cxyapi\\ZYSJModer\\ZYSJModer.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\zysj\\ZYSJModer\\ZYSJModer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\gz\\cxyapi\\ZYSJModer\\ZYSJModer.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\zysj\\ZYSJModer\\ZYSJModer.csproj",
         "projectName": "ZYSJModer",
-        "projectPath": "E:\\gz\\cxyapi\\ZYSJModer\\ZYSJModer.csproj",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\zysj\\ZYSJModer\\ZYSJModer.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\gz\\cxyapi\\ZYSJModer\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\zysj\\ZYSJModer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\vs\\NuGetPackages"
