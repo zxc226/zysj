@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZYSJModer", "..\ZYSJModer\ZYSJModer.csproj", "{C21ED09C-18E9-438F-8C59-6158BCCDBFF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZYSJDal", "..\ZYSJDal\ZYSJDal.csproj", "{16BB2E01-576D-4A65-A19A-ED15202A0D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZYSJBal", "..\ZYSJBal\ZYSJBal.csproj", "{10C4E8A6-3EE9-4360-A246-FE10F48E1559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C21ED09C-18E9-438F-8C59-6158BCCDBFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21ED09C-18E9-438F-8C59-6158BCCDBFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21ED09C-18E9-438F-8C59-6158BCCDBFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21ED09C-18E9-438F-8C59-6158BCCDBFF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BB2E01-576D-4A65-A19A-ED15202A0D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BB2E01-576D-4A65-A19A-ED15202A0D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BB2E01-576D-4A65-A19A-ED15202A0D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BB2E01-576D-4A65-A19A-ED15202A0D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C4E8A6-3EE9-4360-A246-FE10F48E1559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C4E8A6-3EE9-4360-A246-FE10F48E1559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C4E8A6-3EE9-4360-A246-FE10F48E1559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C4E8A6-3EE9-4360-A246-FE10F48E1559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8E76865-6869-45E8-A480-138176FE2CB7}
+	EndGlobalSection
+EndGlobal
